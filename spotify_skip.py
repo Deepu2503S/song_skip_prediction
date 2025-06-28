@@ -7,6 +7,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import classification_report,confusion_matrix
 
+# Loading the dataset
 df = pd.read_csv(r"C:\Users\bsbde\OneDrive\Desktop\Machine Learning\Practise Projects\Spotify Skip\tf_mini.csv")
 print(df.describe())
 print("Skips : " , df['skip_30s'].value_counts())
