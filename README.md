@@ -85,9 +85,3 @@ With millions of tracks streamed daily, understanding **user skip behavior** is 
 * Add hyperparameter tuning
 
 ---
-
-Let me know if you want me to:
-
-* Format this as a Markdown file
-* Include code snippets or screenshots
-* Localize it for a GitHub profile or resume project
